@@ -1,0 +1,9 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+#board{
+    background-image: url("https://www.codeproject.com/KB/scripting/681130/ScreenshotStarfield.png");
+    background-color: black;
+}
